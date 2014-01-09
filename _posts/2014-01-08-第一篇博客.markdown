@@ -1,0 +1,25 @@
+---
+layout: post
+title: 第一篇博客
+---
+
+#GitHub上的第一篇Blog#
+
+折腾了一天，小站在GitHub上落户了，自媒体的时代，谁都可以自由表达。
+
+GitHub Pages+Jekyll+Markdown，咱也Geek一把，虽然Jekyll是抄的别人的模板，且功能还不完善
+
+先来熟悉一下Markdown的语法
+**粗体**，*斜体*
+> 引用
+
+<code>
+\#include <stdio.h>
+
+int a = 1024
+</code>
+
+- 第一点
+- 第二点
+
+<font color=red>红色</font>
