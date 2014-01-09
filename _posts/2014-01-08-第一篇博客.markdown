@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How I Turned Down $300,000 from Microsoft to go Full-Time on GitHub
+title: 第一篇博客
 ---
 
 ## 欢迎使用 MarkdownPad 2 ##
