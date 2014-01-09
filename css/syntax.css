@@ -1,4 +1,17 @@
-.highlight  { background: #ffffff; }
+/* CSS for syntax highlighting (using pygments)
+ * colours mostly as per github
+ */
+
+.highlight  {
+    background-color: #f8f8ff;
+    overflow: auto;
+    font-size: 0.9em;
+    line-height: 1em;
+    padding-left: 0.5em;
+    border: 1px solid #ddd;
+
+}
+
 .highlight .c { color: #999988; font-style: italic } /* Comment */
 .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
 .highlight .k { font-weight: bold } /* Keyword */
