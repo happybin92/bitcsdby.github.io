@@ -4,6 +4,7 @@ lsi:         false
 server_port: 4000
 pygments:    true
 #permalink:   date
+markdown: rdiscount
 permalink:   pretty
 paginate:    5
 maruku:
