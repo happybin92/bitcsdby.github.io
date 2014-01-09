@@ -1,3 +1,8 @@
+---
+layout: post
+title: How I Turned Down $300,000 from Microsoft to go Full-Time on GitHub
+---
+
 ## 欢迎使用 MarkdownPad 2 ##
 
 **MarkdownPad** 是 Windows 平台上一个功能完善的 Markdown 编辑器。
