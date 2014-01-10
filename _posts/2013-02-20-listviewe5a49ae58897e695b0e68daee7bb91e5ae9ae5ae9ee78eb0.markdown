@@ -6,7 +6,7 @@ layout: post
 slug: listview%e5%a4%9a%e5%88%97%e6%95%b0%e6%8d%ae%e7%bb%91%e5%ae%9a%e5%ae%9e%e7%8e%b0
 title: ListView多列数据绑定实现
 wordpress_id: 58
-tags: [Windows编程&amp.NET]
+tags: [Windows编程&.NET]
 ---
 
 System.Windows.Controls.ListView的数据源可以是List或者DataTable。

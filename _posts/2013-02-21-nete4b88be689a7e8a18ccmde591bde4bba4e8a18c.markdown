@@ -6,8 +6,7 @@ layout: post
 slug: net%e4%b8%8b%e6%89%a7%e8%a1%8ccmd%e5%91%bd%e4%bb%a4%e8%a1%8c
 title: .Net下执行cmd命令行
 wordpress_id: 93
-tags:
-- Windows编程&amp;.NET
+tags: [Windows编程&.NET]
 
 ---
 
