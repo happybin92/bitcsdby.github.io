@@ -1,6 +1,5 @@
 ---
 author: bydiao
-comments: true
 date: 2013-03-14 12:08:03+00:00
 layout: post
 slug: paper-summarycollaborative-sensing-to-improve-information-quality-for-target-tracking-in-wireless-sensor-networks
@@ -9,9 +8,7 @@ title: '[PAPER SUMMARY]Collaborative Sensing to Improve Information Quality for 
 wordpress_id: 207
 categories:
 - WSN
-tags:
-- paper
-- 传感器协同
+tags:[Wireless Sensor Network]
 ---
 
 .
