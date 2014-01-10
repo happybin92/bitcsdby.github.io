@@ -3,10 +3,10 @@ author: bydiao
 comments: true
 date: 2013-02-22 09:23:45+00:00
 layout: post
-
 title: 只运行一个程序实例的实现
 wordpress_id: 110
-categories:[Windows编程&.NET]
+categories:
+- Windows编程&.NET
 tags: [Windows编程&.NET]
 ---
 
