@@ -6,8 +6,6 @@ layout: post
 slug: '%e8%bd%ac%e8%87%aa%e9%85%b7%e5%a3%b3%e4%b8%80%e4%b8%aafork%e7%9a%84%e9%9d%a2%e8%af%95%e9%a2%98'
 title: 一个fork的面试题
 wordpress_id: 131
-categories:
-- 面试题
 tags:[面试题]
 ---
 

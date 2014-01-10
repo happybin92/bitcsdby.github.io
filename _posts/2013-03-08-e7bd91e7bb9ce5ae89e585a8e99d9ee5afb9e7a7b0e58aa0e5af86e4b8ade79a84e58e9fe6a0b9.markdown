@@ -6,8 +6,6 @@ layout: post
 slug: '%e7%bd%91%e7%bb%9c%e5%ae%89%e5%85%a8%e9%9d%9e%e5%af%b9%e7%a7%b0%e5%8a%a0%e5%af%86%e4%b8%ad%e7%9a%84%e5%8e%9f%e6%a0%b9'
 title: 非对称加密中的原根
 wordpress_id: 171
-categories:
-- 数学基础
 tags:[数学基础]
 ---
 
