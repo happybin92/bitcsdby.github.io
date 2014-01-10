@@ -40,25 +40,32 @@ Syntax Highlighter Evolved 语法高亮显示文章中的代码
 由于Wp是国外开发的，所以没考虑汉语输入段首缩进的问题，中国人可以DIY一下。修改主题文件中的style.css
 
 在#content部分加入以下代码即可：
+
 <code>
-	#content .post p {text-indent:2em;}[/php]
+	#content .post p {text-indent:2em;}
 </code>
+
 5.分类，归档的数量统计。
 
 分类，归档两个小栏目也是Wp的插件，默认没有统计文章的数量，可以DIY一下
 
 在主题目录下找到sidebar.php文件，iNove主题默认分为northsidebar，southsidebar和centersidebar，centersidebar又分成westsidebar和eastsidebar。我删掉了westbar。
 默认归档是在southbar中，在wp_get_archives参数中添加show_post_count=true即可。
+
 <code>
 	<?php wp_get_archives('type=monthly&show_post_count=true'); ?>
 </code>
+
 默认分类是在eastsidebar中，在wp_list_categories中修改参数如下即可。
+
 <code>
 	<?php wp_list_categories('&title_li=&show_count=1'); ?>
 </code>
+
 6.默认字体修改
 
 Wp默认的文章字体是12px，有点小，可以在body中修改为14px
+
 <code>
 	body {
 	background:#BEC3C6 url(img/bg.jpg) repeat-x;
